@@ -1,0 +1,23 @@
+{
+  "name": "basic-docker-actions",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrTexx/basic-docker-actions-nodejs.git"
+  },
+  "keywords": [
+    "docker",
+    "devops"
+  ],
+  "author": "DrTexx",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/DrTexx/basic-docker-actions-nodejs/issues"
+  },
+  "homepage": "https://github.com/DrTexx/basic-docker-actions-nodejs#readme"
+}
